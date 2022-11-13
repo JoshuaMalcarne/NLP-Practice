@@ -1,4 +1,4 @@
-### Sentiment Analysis Amazon Reviews
+# Sentiment_Analysis_Amazon_Reviews
 
 This assignment is from the Kaggle Competition: Amazon Reviews for Sentiment Analysis
 https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
