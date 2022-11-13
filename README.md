@@ -14,3 +14,4 @@ MODEL TRAINING:
 - Train a model without LSTM layers
 - Train a model with LSTM layers
 - Compare the validation accuracy and loss of the two models
+
